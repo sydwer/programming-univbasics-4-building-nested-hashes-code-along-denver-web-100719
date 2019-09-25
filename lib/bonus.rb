@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  :capulet[:heroine]
+  :capulet[:heroine][status:]= "dead"
 
   
 
